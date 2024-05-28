@@ -1,0 +1,5 @@
+{
+    "train_set": ["4train"],
+    "eval_set": ["4valid"],
+    "test_set": ["4valid"]
+}
